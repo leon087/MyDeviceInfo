@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyDeviceInfo</string>
+
+    <string name="title_info_device">设备信息</string>
+    <string name="title_info_cpu">CPU信息</string>
+    <string name="title_info_disk">磁盘信息</string>
+    <string name="title_info_screen">屏幕信息</string>
+    <string name="title_info_memory">内存信息</string>
+    <string name="title_info_battery">电池信息</string>
+    <string name="title_info_telephony">SIM卡信息</string>
+    <string name="title_info_wifi">WIFI信息</string>
+    <string name="title_info_apps">已安装应用</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="action_theme_random">切换主题</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

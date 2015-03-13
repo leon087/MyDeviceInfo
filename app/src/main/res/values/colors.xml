@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 默认字体颜色 -->
+    <color name="default_color">#5F9EBC</color>
+    <color name="android_blue">#00A0E9</color>
+    <!-- 透明 -->
+    <color name="transparent">@android:color/transparent</color>
+    <!-- 半透明 -->
+    <color name="translucent">#88000000</color>
+    <drawable name="translucent_background">#80000000</drawable>
+
+    <!-- 灰色字体 -->
+    <color name="gray_dark_text_color">#646464</color>
+    <color name="gray_light_text_color">#969696</color>
+    <color name="bg_color">#1E1E1E</color>
+    <color name="dialog_msg_color">#555555</color>
+    <color name="background_bg">#E6E6E6</color>
+
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+    <color name="button_disabled">#aeaeae</color>
+    <color name="button_original">#6fa53b</color>
+    <color name="button_pressed">#8bd642</color>
+
+
+    <color name="text_name">#ff9933cc</color>
+    <color name="text_value">#000</color>
+
+    <color name="red">#bf360c</color>
+    <color name="ripple_red">#ffbf5232</color>
+
+    <color name="material_teal">@color/material_deep_teal_500</color>
+    <color name="ripple_material_teal">#ff149691</color>
+
+    <color name="blue">#304f9f</color>
+    <color name="grey">@color/material_blue_grey_800</color>
+    <color name="light">@color/primary_material_light</color>
+
+    <!--<color name="colorPrimary">@color/material_deep_teal_500</color>-->
+    <!--<color name="colorPrimaryDark">@color/material_deep_teal_500</color>    -->
+    <color name="colorPrimary">@color/ripple_red</color>
+    <color name="colorPrimaryDark">@color/ripple_red</color>
+
+    <color name="windowBackgroundColor">#333333</color>
+    <color name="black_translucent">#80000000</color>
+</resources>
